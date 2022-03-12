@@ -1,0 +1,25 @@
+// Colors
+$veryDarkBlueMainBackground: hsl(233, 47%, 7%);
+$darkDesaturatedBlueCardBackground: hsl(244, 38%, 16%);
+$softVioletAccent: hsl(277, 64%, 61%);
+$whiteMainHeading: hsl(0, 0%, 100%);
+$slightlyTransparentWhiteMainP: hsla(0, 0%, 100%, 0.75);
+$slightlyTransparentWhiteStat: hsla(0, 0%, 100%, 0.6);
+
+// Font-sizes
+$fontHeader: 1.375rem; //22px Header Mobile
+$fontHeaderDesktop: 2.1rem; //32px Header Desktop
+$fontBody: 0.875rem; //14px Body Mobile
+$fontBodyDesktop: 1.125rem; //18px Body Desktop
+$fontStats: 1.375rem; //22 Stats Mobile
+$fontStatsDesktop: 1.5rem; //24px Stats Desktop
+$fontOther: 0.75; //12px Under Numbers
+
+// Font-Family
+$inter: 'Inter', sans-serif; // Inter
+$lexendDeco: 'Lexend Deca', sans-serif;; // Lexend + Deco
+
+// Font-Weight
+$weightHeader: 700; // Inter 700
+$weightBody: 400; // Inter 400
+$weightOther: 400; // Lexend Deca 400
